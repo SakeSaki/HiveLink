@@ -23,7 +23,12 @@ To print and assemble the HiveLink tracker case, follow these simple steps:
 
 4. Flip all the tops of the case upside down for a better aesthetic appearance.
 
+
+
+Assembly is straightforward, but there are a few considerations to keep in mind. Due to variations in printer tolerances, some light sanding of the tray's sides may be necessary for a perfect fit. However, it is designed to snap into place snugly. To ensure optimal wire management, I recommend keeping the wires short. It's best to solder components outside of the case and use the case/tray as a reference for determining wire length.
+
 Remember to take your time and have fun with the process! Enjoy printing and assembling your HiveLink trackers!
+
 
 
 ![dawdawdwddawdwad](https://github.com/SakeSaki/HiveLink/assets/119632972/672cf797-5c07-4cd4-b9bf-57099889feb5)
