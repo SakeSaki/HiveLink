@@ -11,7 +11,7 @@ Welcome to the HiveLink GitHub page! Here you will find the files for the HiveLi
 **Layer Height:** 0.12 - 0.2
 **Walls:** 3-5
 **Infill:** 20%
-**Supports:** Optional (printed with supports)
+**Supports:** Optional (i printed them with supportsl...helps a bit)
 
 To print and assemble the HiveLink tracker case, follow these simple steps:
 
