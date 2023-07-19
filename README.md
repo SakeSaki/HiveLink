@@ -23,7 +23,7 @@ To print and assemble the HiveLink tracker case, follow these simple steps:
 
 2. For assembly, place the BMI60, D1 mini, and TP on the tray and adjust the wiring length accordingly. Ensure a tidy and secure fit. Place the battery first and keep it in place while soldering the TP.
 
-3. Refer to this [soldering tutorial video](https://youtu.be/hGc3ey2mqJU) for guidance on soldering the TP4056. While not necessary, it can help ensure a neat and secure connection.
+3. Refer to this [soldering tutorial video](https://youtu.be/hGc3ey2mqJU) by Tehrasha Darkon for guidance on soldering the TP4056. While not necessary, it can help ensure a neat and secure connection.
 
 4. Flip all the tops of the case upside down for better printing and it looks better
 
