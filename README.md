@@ -15,6 +15,7 @@ have a custom switch? use this tool by Pixel to make sure your switch fits.
 **Walls:** 3-5
 **Infill:** 20%
 **Supports:** Optional (i printed them with supports...helps a bit)
+**Birms:** use it since the parts have sarp corners.
 
 To print and assemble the HiveLink tracker case, follow these simple steps:
 
@@ -33,6 +34,9 @@ To print and assemble the HiveLink tracker case, follow these simple steps:
 Assembly is straightforward, but there are a few considerations to keep in mind. Due to variations in printer tolerances, some light sanding of the tray's sides may be necessary for a perfect fit. However, it is designed to snap into place snugly. To ensure optimal wire management, I recommend keeping the wires short. It's best to solder components outside of the case and use the case/tray as a reference for determining wire length.
 
 Remember to take your time and have fun with the process! Enjoy printing and assembling your HiveLink trackers!
+
+Dont wanna waste time building it yourself? or printing the cases? you can buy them both from me!! [Cases and Trackers](https://docs.google.com/forms/d/1EOP30RMt38Rm0TsUZrYEHRzKEQSfK_5F34ZGGU3et4U/edit)
+
 
 
 
