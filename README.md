@@ -6,6 +6,9 @@ Welcome to the HiveLink GitHub page! Here you will find the files for the HiveLi
 **Switch:** SS22F32
 **Battery:** 804040
 
+have a custom switch? use this tool by Pixel to make sure your switch fits.
+https://cad.onshape.com/documents/01290834cb27e4ddda5063ff/w/0bcb51db692b508a34e871d9/e/a89f65111ff99bb0dd67d00c 
+
 **Printer:** Ender 3 S1
 **Material:** PLA Bambu
 **Layer Height:** 0.12 - 0.2
@@ -21,7 +24,9 @@ To print and assemble the HiveLink tracker case, follow these simple steps:
 
 3. Refer to this [soldering tutorial video](https://youtu.be/hGc3ey2mqJU) for guidance on soldering the TP4056. While not necessary, it can help ensure a neat and secure connection.
 
-4. Flip all the tops of the case upside down for a better aesthetic appearance.
+4. Flip all the tops of the case upside down for better printing and it looks better
+
+5. for the ph jst port put it in, on  a angle and as well for its meant to stay in and not be able to get out as well for the switch.
 
 
 
