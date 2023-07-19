@@ -36,6 +36,8 @@ Assembly is straightforward, but there are a few considerations to keep in mind.
 Remember to take your time and have fun with the process! Enjoy printing and assembling your HiveLink trackers!
 
 Dont wanna waste time building it yourself? or printing the cases? you can buy them both from me!! [Cases and Trackers](https://docs.google.com/forms/d/1EOP30RMt38Rm0TsUZrYEHRzKEQSfK_5F34ZGGU3et4U/edit)
+
+
 Join the discord if you neeed any help!! 
 [Discord](https://discord.gg/dUJNMznRY6)
 
