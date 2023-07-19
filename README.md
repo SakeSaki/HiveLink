@@ -7,7 +7,7 @@ Welcome to the HiveLink GitHub page! Here you will find the files for the HiveLi
 **Battery:** 804040
 
 have a custom switch? use this tool by Pixel to make sure your switch fits.
-https://cad.onshape.com/documents/01290834cb27e4ddda5063ff/w/0bcb51db692b508a34e871d9/e/a89f65111ff99bb0dd67d00c 
+[universal switch design by Pixel](https://cad.onshape.com/documents/01290834cb27e4ddda5063ff/w/0bcb51db692b508a34e871d9/e/a89f65111ff99bb0dd67d00c)
 
 **Printer:** Ender 3 S1
 **Material:** PLA Bambu
