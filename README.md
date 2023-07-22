@@ -14,20 +14,22 @@ have a custom switch? use this tool by Pixel to make sure your switch fits.
 **Layer Height:** 0.12 - 0.2
 **Walls:** 3-5
 **Infill:** 20%
-**Supports:** Optional (i printed them with supports...helps a bit)
+**Supports:** Optional
 **Birms:** use it since the parts have sarp corners.
+
+Everything is meant to be very tight so dont worry about going too rough with it. no body likes it gentle anywa- PFFFFFFFTT anyways.
 
 To print and assemble the HiveLink tracker case, follow these simple steps:
 
-1. Cut off the little ends of the switch and slide them into the wings on the second layer. Tilt the switch into the hole and ensure it is properly placed on the small numbs on the case.
+1. Tilt the switch withe the switch holder into the hole and ensure it is properly placed with the tray and case.
 
-2. For assembly, place the BMI60, D1 mini, and TP on the tray and adjust the wiring length accordingly. Ensure a tidy and secure fit. Place the battery first and keep it in place while soldering the TP.
+2. For assembly: Place the battery first then the BMI60 make sure the holes go to the right, D1 mini, and TP on the tray(TP first then the D1 mini) and adjust the wiring length accordingly. Ensure a tidy and secure fit. Then start soldering.
 
 3. Refer to this [soldering tutorial video](https://youtu.be/hGc3ey2mqJU) by Tehrasha Darkon for guidance on soldering the TP4056. While not necessary, it can help ensure a neat and secure connection.
 
 4. Flip all the tops of the case upside down for better printing and it looks better
 
-5. for the ph jst port put it in, on  a angle and as well for its meant to stay in and not be able to get out as well for the switch.
+5. for the ph jst just tilt it and put it and as well for its meant to stay in and not be able to get out as well for the switch.
 
 
 
